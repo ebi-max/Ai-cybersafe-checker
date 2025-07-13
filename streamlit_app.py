@@ -85,7 +85,7 @@ elif menu == "Upgrade Account 💰":
     - **Account Number:** 6681569396  
 
     After payment, send proof on WhatsApp:  
-    👉 [https://wa.me/234XXXXXXXXXX](https://wa.me/234XXXXXXXXXX)
+    👉 [https://wa.me/234XXXXXXXXXX](https://wa.me/2347031204549
 
     _(Replace with your phone number!)_
     """)
